@@ -1,4 +1,4 @@
-# Artificial_Intelligence_-AI-
+# Artificial_Intelligence_AI
 This repository consists of my projects on: (1) Machine Learning; (2) Deep Learning; (3) Reinforcement Learning; (4) Computer Vision; &amp; (5) Natural Language Processing
 
 repository - AI:
