@@ -1,0 +1,18 @@
+1. Artificial Intelligence (Github: date uploaded)
+
+1.1. Computer Vision
+- Entries: 0
+
+1.2. Deep Learning
+- Entries: 1
+1.2.1. AIITP Assignment (18/07/2022 - DD/MM/YYYY)
+
+1.3. Machine Learning
+- Entries: 1
+1.3.1. AIITP Assignment (18/07/2022 - DD/MM/YYYY)
+
+1.4. Natural Language Processing
+- Entries: 0
+
+1.5. Reinforcement Learning
+- Entries: 0
