@@ -1,22 +1,24 @@
 # Artificial_Intelligence_AI
-This repository consists of my projects on: (1) Machine Learning; (2) Deep Learning; (3) Reinforcement Learning; (4) Computer Vision; &amp; (5) Natural Language Processing
+This repository consists of my projects on: (1) Computer Vision; (2) Deep Learning; (3) Machine Learning; (4) Natural Language Processing; & (5) Reinforcement Learning;
 
-repository - AI:
+Repository - AI:
 
-1.1. Machine Learning
+1.1. Computer Vision
 1.2. Deep Learning
-1.3. Reinforcement Learning
-1.4. Computer Vision
-1.5. Natural Language Processing
+1.3. Machine Learning
+1.4. Natural Language Processing
+1.5. Reinforcement Learning
+
+
 
 Currently (20/07/2022 - DD/MM/YYYY)
 
 The following repositories have entries:
 
-1.1. Machine Learning
-1.1.1. AIITP Machine Learning Assignment
-
 1.2. Deep Learning
-1.1.2. AIITP Deep Learning Assignment
+1.2.1. AIITP Deep Learning Assignment
+
+1.3. Machine Learning
+1.3.1. AIITP Machine Learning Assignment
 
 Note: AIITP = Joint RP-NVIDIA AI Innovation and Training Programme
